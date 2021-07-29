@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import CampsiteInfo from "./CampsiteInfo";
+import CampsiteInfo from "./CampsiteInfoComponent";
 import { Card, CardImg, CardImgOverlay, CardTitle } from "reactstrap";
 
 class Directory extends Component {
